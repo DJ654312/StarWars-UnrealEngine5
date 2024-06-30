@@ -1,0 +1,6 @@
+2024/05/25-14:14:45.657 7070 Creating DB C:/Users/djyot/Documents/Unreal_Study_YT/StarWars/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/25-14:14:45.673 7070 Reusing MANIFEST C:/Users/djyot/Documents/Unreal_Study_YT/StarWars/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/25-14:48:20.386 75b0 Level-0 table #5: started
+2024/05/25-14:48:20.398 75b0 Level-0 table #5: 1210 bytes OK
+2024/05/25-14:48:20.403 75b0 Delete type=0 #3
+2024/05/25-14:48:20.404 75b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
