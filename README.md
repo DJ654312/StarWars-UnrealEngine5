@@ -14,3 +14,12 @@
       - Scene Building.
       - Camera.
       - Rendering.
+
+## 2. Result
+https://github.com/user-attachments/assets/7a49243b-c49c-4b58-9c76-c5c8ad462e50
+
+![image](https://github.com/user-attachments/assets/dcb648ce-628c-4d60-a59d-edef8507b0a6)
+
+![image](https://github.com/user-attachments/assets/d4ee17a3-04b5-4552-bf98-ea9d07cd1158)
+
+![image](https://github.com/user-attachments/assets/8c1dab34-9871-40d3-9f69-b76bc28bd9bd)
